@@ -11,6 +11,8 @@ The **AK Holidays Website** is a professional travel and tourism platform design
 This project demonstrates **end-to-end design and development** using **Wix + Velo**, with **Razorpay payment gateway integration** for secure online bookings. It showcases **modern UI/UX, booking workflows, payment systems, SEO optimization, accessibility, and responsive web design** for a real-world business.  
 
 ---
+<img width="1902" height="881" alt="image" src="https://github.com/user-attachments/assets/d6c44f40-7f18-4c00-a738-23ef3b6908ea" />
+
 
 ## 🔗 Live Website
 👉 [https://akholidaysofficial.in](https://akholidaysofficial.in)  
