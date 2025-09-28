@@ -7,7 +7,8 @@ This project was developed using **Wix** with a focus on **branding, user-friend
 ---
 
 ## 🔗 Live Website
-👉 [https://akholidaysofficial.in](https://akholidaysofficial.in
+👉 [https://akholidaysofficial.in]
+(https://akholidaysofficial.in
 
 ---
 
