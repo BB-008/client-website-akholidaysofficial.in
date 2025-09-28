@@ -7,18 +7,7 @@ This project was developed using **Wix** with a focus on **branding, user-friend
 ---
 
 ## 🔗 Live Website
-👉 [https://akholidaysofficial.in](https://akholidaysofficial.in)
-
----
-
-## 📸 Screenshots
-_Add actual screenshots in the `assets/` folder to showcase each page._
-
-- Homepage with hero banner & calls-to-action  
-- Packages page (Kerala, Karnataka, Tamil Nadu, International)  
-- Booking page with online inquiry form  
-- About Us page with mission & vision  
-- Privacy Policy & Accessibility Statement pages  
+👉 [https://akholidaysofficial.in](https://akholidaysofficial.in
 
 ---
 
